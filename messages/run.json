@@ -1,0 +1,4 @@
+{
+    "commandDescription": "runs a node script with the current sfdx credentails",
+    "fileFlagDescription": "node script to run"
+}
